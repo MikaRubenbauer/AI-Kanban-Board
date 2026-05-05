@@ -23,9 +23,7 @@ Erstellen eines frontend-only Kanban Boards (HTML, CSS, Vanilla JavaScript) auss
 ## Ergebnis
 
 Das finale Kanban Board befindet sich in [`Prompt 6/`](Prompt%206/).  
-Einfach `index.html` direkt im Browser öffnen – kein Build, keine Dependencies.
-
-**Umfang der finalen Version:** 41 Zeilen HTML · 160 Zeilen CSS · 96 Zeilen JavaScript
+Einfach `index.html` direkt im Browser öffnen
 
 ---
 
@@ -35,7 +33,7 @@ Einfach `index.html` direkt im Browser öffnen – kein Build, keine Dependencie
 |---|---|---|---|
 | 1 | Gemini Fast | Erster Versuch – sehr vager Prompt | Kein Design, kein Drag & Drop, fehlende Dateireferenzen |
 | 2 | Gemini Fast | Features explizit aufgelistet | Funktional, aber alles in einer Datei, Code-Fehler |
-| 3 | Gemini Pro | Vollständiges README als Prompt | Regression – kein Design, keine Funktionalität |
+| 3 | Gemini Pro | Vollständiges README als Prompt | kein Design, keine Funktionalität |
 | 4 | Gemini Pro | Drei Dateien, modernes Design explizit gefordert | 3 Dateien, gutes Design, aber UI-Bugs bei langen Eingaben |
 | 5 | Gemini Pro | „clean code" + „idiot-proof" ergänzt | Erste produktionsfähige Version, Eingabelimits |
 | 6 | Gemini Thinking | Spaltenbreite + Text-Overflow explizit adressiert | Finale, vollständige Version |
